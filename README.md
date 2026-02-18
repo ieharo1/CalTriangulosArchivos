@@ -1,28 +1,41 @@
-# CalTriangulosArchivos
+# △ CalTriangulos Archivos
 
-Proyecto Java para calcular propiedades de triángulos y guardar resultados en archivos.
+Proyecto Java para calcular propiedades de triángulos y guardar resultados en archivos desarrollado por **Isaac Esteban Haro Torres**.
 
-## Descripción
+---
+
+## 📝 Descripción
 
 Aplicación Java que calcula áreas, perímetros y otras propiedades de triángulos, guardando los resultados en archivos.
 
-## Características
+---
+
+## ✨ Características
 
 - Cálculo de propiedades de triángulos
 - Operaciones con archivos
 - Manejo de excepciones
 
-## Stack Tecnológico
+---
+
+## 🛠️ Stack Tecnológico
 
 - Java SE
 - E/S de archivos
 
-## Autor
+---
 
-🧑‍💻 **Isaac Haro**
+## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
 
-Ingeniero en Sistemas · Full Stack · Automatización · Data
+**Ingeniero en Sistemas · Full Stack · Automatización · Data**
 
-## Licencia
+- 📧 Email: zackharo1@gmail.com
+- 📱 WhatsApp: 098805517
+- 💻 GitHub: https://github.com/ieharo1
+- 🌐 Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
 
-MIT — contribuciones bienvenidas 🚀
+---
+
+## 📄 Licencia
+
+© 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
